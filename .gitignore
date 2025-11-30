@@ -1,0 +1,17 @@
+# Virtual environments
+.venv/
+
+# Bytecode / cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment files
+.env
+*.env
+
+# VS Code workspace settings
+.vscode/
